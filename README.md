@@ -1,7 +1,7 @@
 # Número Aleatorio
 
 Buscador de palabras
-## Probar app :  https://johanjimenex.github.io/numero-aleatorio/
+## Probar app :  https://johanjimenex.github.io/buscador/
 
 ### Vista previa
 
