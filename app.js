@@ -24,8 +24,6 @@ formulario.addEventListener('submit' || 'keyup', (e) => {
     filtrar(valor);
 })
 
-// texto.addEventListener('submit',filtrar)
-
 //funcion de flecha con un solo parametro
 let filtrar = valor => {
 
@@ -45,4 +43,3 @@ let filtrar = valor => {
 
     }
 }
-
